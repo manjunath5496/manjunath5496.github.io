@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb18030">
+<meta http-equiv="X-UA-Compatible" content="IE=9" />
+<meta name="format-detection" content="telephone=no" />
+ <meta name="expires" content="0" />
+<META NAME="robots" CONTENT="index,follow" />
+ <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0" />
+<link rel="shortcut icon" href="logo.png" alt="The internet's best source for free eBook downloads" title="MyW3schools " />
+<title>Tryit HTML Editor</title>
+ <meta name="distribution" content="web" />
+<script type="text/javascript">
+
+var editboxHTML = 
+'<html class="expand close">' +
+'<head>' +
+'<style type="text/css">' +
+'.expand { width: 100%; height: 100%; }' +
+'.close { border: none; margin: 0px; padding: 0px; }' +
+'html,body { overflow: hidden; }' +
+'<\/style>' +
+'<\/head>' +
+'<body class="expand close" onload="document.f.ta.focus(); document.f.ta.select();">' +
+'<form class="expand close" name="f">' +
+'<textarea class="expand close" style="color: white; font-size:17px; background-color: #3A5580;" name="ta" wrap="hard" spellcheck="false">' +
+'<\/textarea>' +
+'<\/form>' +
+'<\/body>' +
+'<\/html>';
+
+var defaultStuff = '<!DOCTYPE html>\n' +
+'<html>\n' +
+'<body>\n' +
+'<h1 style="border:2px solid Tomato;">Hello World</h1>\n' +
+'<h1 style="border:2px solid DodgerBlue;">Hello World</h1>\n' +
+'<h1 style="border:2px solid Violet;">Hello World</h1>\n' +
+'</body>\n' +
+'</html>';
+
+
+
+var extraStuff = '<div style="position:absolute; margin:.3em; bottom:0em; right:0em;"><small>\n  <a href="http://www.google.com/" target="_blank"><IMG SRC="Logo_40wht.gif" title ="Google" border="0" ALT="Google" align="absmiddle"><\/a>.\n<\/small><\/div>';
+
+var old = '';
+         
+function init()
+{
+  window.editbox.document.write(editboxHTML);
+  window.editbox.document.close();
+  window.editbox.document.f.ta.value = defaultStuff;
+  update();
+}
+
+function update()
+{
+  var textarea = window.editbox.document.f.ta;
+  var d = dynamicframe.document; 
+
+  if (old != textarea.value) {
+    old = textarea.value;
+    d.open();
+    d.write(old);
+    if (old.replace(/[\r\n]/g,'') == defaultStuff.replace(/[\r\n]/g,''))
+      d.write(extraStuff);
+    d.close();
+  }
+
+  window.setTimeout(update, 150);
+}
+
+</script>
+</head>
+
+<frameset resizable="yes" rows="50%,*" onload="init();">
+
+  <frame name="editbox" src="javascript:'';">
+  <frame name="dynamicframe" src="javascript:'';">
+</frameset>
+
+</html>
