@@ -1,0 +1,355 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>convForm - example</title>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1">
+	<link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+	<link rel="stylesheet" type="text/css" href="css/jquery.convform.css">
+	
+	
+	
+	
+
+</head>
+<body>
+	<section id="demo" >
+	    <div class="vertical-align">
+	        <div class="container">
+	            <div class="row">
+	                <div class="col-sm-6 col-sm-offset-3 col-xs-offset-0">
+	                    <div class="card no-border" style="background-image: url('footer-left.png'); background-repeat: repeat;">
+	                        <div id="chat" class="conv-form-wrapper">
+	                            <form action="" method="GET" class="hidden">
+								
+				  <select name="programmer1" data-conv-question="<strong>Hi there!</strong> <i class='fa fa-smile-o' aria-hidden='true' style ='color:black; background-color:yellow;'></i> Thank you for choosing <a href='http://www.myw3schools.com/' target='_blank' style='text-decoration: none;'>myw3schools.com</a>. We're so glad you stopped by. Chances are you're looking for something in particular." name="first-question">
+	                                    <option value="yes">Yes</option>
+	                                    <option value="no">No</option>
+	                                </select>
+
+
+
+         <div data-conv-fork="programmer1">
+	                                    <div data-conv-case="yes">
+										 
+										<select name="thought1" data-conv-question="Howdy! It's a pleasure to meet you. What are you interested in?  </br></br> <b>Books</b>">
+		                                   <option value="yes">Yes</option>
+	                                    <option value="no">No</option>
+	                                    
+		                                    </select>
+										
+			
+	                                    </div>
+										
+										
+	                                    <div data-conv-case="no">
+		                                    <select name="thought" data-conv-question="Thank You For Your Time. <i class='fa fa-smile-o' aria-hidden='true' style ='color:black; background-color:yellow;'></i> </br> <b>Have a Nice Day!</b>">
+		                                    	<option value="exit">Exit</option>
+		                                    	
+		                                    </select>
+											
+						
+	                                    </div>
+	                                </div>
+
+
+
+
+        <div data-conv-fork="thought1">
+	                                    <div data-conv-case="yes">
+										
+									<input type="text" data-conv-question=" <a href='http://www.myw3schools.com/search.php' style='text-decoration: none;'>Browse the books</a>" >
+										
+			
+	                                    </div>
+										
+										
+	                                    <div data-conv-case="no">
+										
+										<select name="thought2" data-conv-question="Have you ever thought of taking up learning as a hobby? <b>Learning is fun!</b> Are you interested in tutorials?">
+		                                   <option value="yes">Yes</option>
+	                                    <option value="no">No</option>
+	                                    
+		                                    </select>
+		                                   
+											
+						
+	                                    </div>
+	                                </div>
+
+
+
+        <div data-conv-fork="thought2">
+	                                    <div data-conv-case="yes">
+										
+									<input type="text" data-conv-question=" <a href='http://www.myw3schools.com/html-tutorial' style='text-decoration: none;'>HTML</a>, <a href='http://www.myw3schools.com/css-tutorial' style='text-decoration: none;'>CSS</a>, <a href='http://www.myw3schools.com/other-tutorial' style='text-decoration: none;'> More ... </a> " >
+										
+			
+	                                    </div>
+										
+										
+	                                    <div data-conv-case="no">
+										
+										<select name="thought3" data-conv-question="Hey! Are you interested in <b>Formulas</b>?">
+		                                   <option value="yes">Yes</option>
+	                                    <option value="no">No</option>
+	                                    
+		                                    </select>
+		                                   
+											
+						
+	                                    </div>
+	                                </div>
+
+
+
+    <div data-conv-fork="thought3">
+	                                    <div data-conv-case="yes">
+										
+									<input type="text" data-conv-question=" <a href='http://www.myw3schools.com/formulas' style='text-decoration: none;'>Browse the formulas</a>" >
+										
+			
+	                                    </div>
+										
+										
+	                                    <div data-conv-case="no">
+										
+										<select name="thought4" data-conv-question="Notes From All Leading Coaching. Are you interested in <b>study materials</b>?">
+		                                   <option value="yes">Yes</option>
+	                                    <option value="no">No</option>
+	                                    
+		                                    </select>
+		                                   
+											
+						
+	                                    </div>
+	                                </div>
+	                               
+	                               
+									
+				    <div data-conv-fork="thought4">
+	                                    <div data-conv-case="yes">
+										
+									<input type="text" data-conv-question=" <a href='http://www.myw3schools.com/study-materials' style='text-decoration: none;'>Browse the study materials</a>" >
+										
+			
+	                                    </div>
+										
+										
+	                                    <div data-conv-case="no">
+										
+										<select name="thought5" data-conv-question="Coding is a craft, and you don't get good at a craft just by learning the rules. You get good through practice. Are you interested in <b>source codes</b>?">
+		                                   <option value="yes">Yes</option>
+	                                    <option value="no">No</option>
+	                                    
+		                                    </select>
+		                                   
+											
+						
+	                                    </div>
+	                                </div>					
+									
+									
+	                             
+							 <div data-conv-fork="thought5">
+	                                    <div data-conv-case="yes">
+										
+									<input type="text" data-conv-question=" <a href='http://www.myw3schools.com/source-codes' style='text-decoration: none;'>Explore source codes</a>" >
+										
+			
+	                                    </div>
+										
+										
+	                                    <div data-conv-case="no">
+										
+										<select name="thought6" data-conv-question="Do you enjoy reading <b>blogs</b>?">
+		                                   <option value="yes">Yes</option>
+	                                    <option value="no">No</option>
+	                                    
+		                                    </select>
+		                                   
+											
+						
+	                                    </div>
+	                                </div>					
+									
+										 <div data-conv-fork="thought6">
+	                                    <div data-conv-case="yes">
+										
+									<input type="text" data-conv-question=" <a href='http://www.myw3schools.com/blog' style='text-decoration: none;'>Explore Blogs</a>" >
+										
+			
+	                                    </div>
+										
+										
+	                                    <div data-conv-case="no">
+										
+										<select name="thought7" data-conv-question="Data Science will not only give you a great career but will also help you in personal growth. Are you excited about <b>Data science</b>?">
+		                                   <option value="yes">Yes</option>
+	                                    <option value="no">No</option>
+	                                    
+		                                    </select>
+		                                   
+											
+						
+	                                    </div>
+	                                </div>				
+									
+								
+		 <div data-conv-fork="thought7">
+	                                    <div data-conv-case="yes">
+										
+									<input type="text" data-conv-question=" <a href='http://www.static.myw3schools.com/data_science.php' style='text-decoration: none;'>Explore data science</a>" >
+										
+			
+	                                    </div>
+										
+										
+	                                    <div data-conv-case="no">
+										
+										<select name="thought8" data-conv-question="Want to Learn - <b>Artificial intelligence</b>">
+		                                   <option value="yes">Yes</option>
+	                                    <option value="no">No</option>
+	                                    
+		                                    </select>
+		                                   
+											
+						
+	                                    </div>
+	                                </div>
+
+
+
+		 <div data-conv-fork="thought8">
+	                                    <div data-conv-case="yes">
+										
+									<input type="text" data-conv-question=" <a href='http://www.static.myw3schools.com/ai.php' style='text-decoration: none;'>Explore AI</a>" >
+										
+			
+	                                    </div>
+										
+										
+	                                    <div data-conv-case="no">
+										
+										<select name="thought9" data-conv-question="Want to Explore the letters and manuscripts of one of the founding fathers of computer science, <b>AM Turing...</b>">
+		                                   <option value="yes">Yes</option>
+	                                    <option value="no">No</option>
+	                                    
+		                                    </select>
+		                                   
+											
+						
+	                                    </div>
+	                                </div>
+
+
+
+		 <div data-conv-fork="thought9">
+	                                    <div data-conv-case="yes">
+										
+									<input type="text" data-conv-question=" <a href='http://www.myw3schools.com/turing-archive.php' style='text-decoration: none;'>Browse the archive</a>" >
+										
+			
+	                                    </div>
+										
+										
+	                                    <div data-conv-case="no">
+										
+										<select name="thought10" data-conv-question="Want to Explore Jewish Life and Judaism ...">
+		                                   <option value="yes">Yes</option>
+	                                    <option value="no">No</option>
+	                                    
+		                                    </select>
+		                                   
+											
+						
+	                                    </div>
+	                                </div>
+								
+	 <div data-conv-fork="thought10">
+	                                    <div data-conv-case="yes">
+										
+									<input type="text" data-conv-question=" <a href='http://www.myw3schools.com/jewish-virtual-library.php' style='text-decoration: none;'>Jewish Virtual Library</a>" >
+										
+			
+	                                    </div>
+										
+										
+	                                    <div data-conv-case="no">
+										
+										<select name="thought11" data-conv-question="Want to Explore Trending repositories on <b>GitHub ...</b>">
+		                                   <option value="yes">Yes</option>
+	                                    <option value="no">No</option>
+	                                    
+		                                    </select>
+		                                   
+											
+						
+	                                    </div>
+	                                </div>
+									
+
+
+<div data-conv-fork="thought11">
+	                                    <div data-conv-case="yes">
+										
+									<input type="text" data-conv-question=" <a href='https://github.com/manjunath5496?tab=repositories' style='text-decoration: none;'>Explore Github</a>" >
+										
+			
+	                                    </div>
+										
+										
+	                                    <div data-conv-case="no">
+										
+										<select name="thought12" data-conv-question="Would you like to leave a message?">
+		                                   <option value="yes">Yes</option>
+	                                    <option value="no">No</option>
+	                                    
+		                                    </select>
+		                                   
+											
+						
+	                                    </div>
+	                                </div>
+
+
+
+
+<div data-conv-fork="thought12">
+	                                    <div data-conv-case="yes">
+										
+									<input type="text" data-conv-question=" <a href='http://www.myw3schools.com/contact.php' style='text-decoration: none;'>Contact us</a>" >
+										
+			
+	                                    </div>
+										
+										
+	                                    <div data-conv-case="no">
+										
+									 <select name="thought" data-conv-question="Thank you for spending your valuable time with us. <i class='fa fa-smile-o' aria-hidden='true' style ='color:black; background-color:yellow;'></i> </br> <b>Have a Great Day!</b>">
+		                                    	<option value="exit">Exit</option>
+		                                    	
+		                                    </select>
+		                                   
+											
+						
+	                                    </div>
+	                                </div>
+
+
+
+									
+									
+	                            </form>
+	                        </div>
+	                    </div>
+	                </div>
+	            </div>
+	        </div>
+	    </div>
+	</section>
+
+<script type="text/javascript" src="js/jquery-1.12.3.min.js"></script>
+
+</body>
+</html>
