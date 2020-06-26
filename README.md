@@ -10,12 +10,11 @@
 
 
 
-<img src="book.png" alt="Smiley face" height="200" width="200">
+<img src="c3.63594aae.png" alt="Smiley face" height="200" width="200">
 
 
 
-<h2>About us</h2>
-<p class="about-us__description"><strong>Enhance your Skill... Gain a Competitive Edge.</strong></p>
+<h2>Enhance your Skill... Gain a Competitive Edge</h2>
 <p><a title="MyW3schools.com" href="http://www.myw3schools.com/">MyW3schools.com</a> is the internet's best source for Free, secure and fast eBook, Online Study Material and SRC downloads. Read and <code>download eBooks</code>, Online Study Material and <code>Source Codes</code> for Free: anywhere, anytime!</p>
 <p>Collection includes:</p>
 <ul>
