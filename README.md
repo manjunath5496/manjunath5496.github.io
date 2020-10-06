@@ -32,6 +32,14 @@
 <li class="about-us__description"><a href="http://www.myw3schools.com ">http://www.myw3schools.com </a></li>
 <li class="about-us__description"><a href="https://manjunath5496.github.io ">https://manjunath5496.github.io</a></li>
 </ul>
+</br>
+<img src="UK-1.jpg" alt="Smiley face">
+
+</br>
+
+
+
+
 <p class="about-us__description">&nbsp;</p>
 <p class="about-us__description"><strong>Mail us at:</strong></p>
 <ul>
