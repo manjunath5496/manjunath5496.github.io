@@ -10,7 +10,7 @@
 
 
 
-<img src="c3.63594aae.png" alt="Smiley face">
+<img src="c3.63594aae.jpg" alt="Smiley face">
 
 
 
