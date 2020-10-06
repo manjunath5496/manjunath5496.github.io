@@ -23,6 +23,9 @@
 <li>UPSC Prelims and Mains Indian History Notes, Best study material for CAT preparation, <code>Indian History </code>and Culture, Geography Notes, Indian and World Geography, Economics Notes - Indian Economy, Indian Polity Notes - Constitution, Social Justice, General Science Notes - Science and Technology, Environment Notes - Biodiversity, Climate.</li>
 <li>Digital facsimiles of original documents by <code>Turing</code> and other pioneers of computing. Plus articles about Turing and his work, including Artificial Intelligence.</li>
 </ul>
+</br>
+<img src="kids-uk.jpg" alt="Smiley face">
+
 <p class="about-us__description">&nbsp;</p>
 <p class="about-us__description"><strong>Visit us at:</strong></p>
 <ul>
