@@ -1,5 +1,5 @@
 
-<p><a class="leftAlignedImage" href="https://www.goodreads.com/author/show/10538.Carl_Sagan"><img src="10538.jpg" alt="Carl Sagan" width="250" height="306"/></a></p>
+<p><a class="leftAlignedImage" href="10538.jpg"><img src="10538.jpg" alt="Carl Sagan" width="250" height="306"/></a></p>
 <div class="quoteText">
 <p class="quoteText">"A book is made from a tree. It is an assemblage of flat, flexible parts (still called "leaves") imprinted with dark pigmented squiggles. One glance at it and you hear the voice of another person, perhaps someone dead for thousands of years. Across the millennia, the author is speaking, clearly and silently, inside your head, directly to you. Writing is perhaps the greatest of human inventions, binding together people, citizens of distant epochs, who never knew one another. Books break the shackles of time ― proof that humans can work magic."</p>
 <p>― <a href="https://en.wikipedia.org/wiki/Carl_Sagan">Carl Sagan</a></p>
