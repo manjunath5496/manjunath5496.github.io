@@ -1,8 +1,8 @@
 
-<p><a class="leftAlignedImage" href="10538.jpg"><img src="10538.jpg" alt="Carl Sagan" width="250" height="306"/></a></p>
+<p><a class="leftAlignedImage" href="tuy.jpg"><img src="tuy.jpg" alt="Alan Turing" width="380" height="253"/></a></p>
 <div class="quoteText">
-<p class="quoteText">"A book is made from a tree. It is an assemblage of flat, flexible parts (still called "leaves") imprinted with dark pigmented squiggles. One glance at it and you hear the voice of another person, perhaps someone dead for thousands of years. Across the millennia, the author is speaking, clearly and silently, inside your head, directly to you. Writing is perhaps the greatest of human inventions, binding together people, citizens of distant epochs, who never knew one another. Books break the shackles of time ― proof that humans can work magic."</p>
-<p>― <a href="https://en.wikipedia.org/wiki/Carl_Sagan">Carl Sagan</a></p>
+<p class="quoteText">"I believe that at the end of the century the use of words and general educated opinion will have altered so much that one will be able to speak of machines thinking without expecting to be contradicted."</p>
+<p>― <a href="https://en.wikipedia.org/wiki/Alan_Turing">Alan Turing</a></p>
 </div>
 
 
