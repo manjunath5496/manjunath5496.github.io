@@ -44,11 +44,38 @@
 <li><a title="Stuart J. Russell" href="https://en.wikipedia.org/wiki/Stuart_J._Russell">Stuart J. Russell</a>&nbsp;</li>
 <li><a title="Murray Shanahan" href="https://en.wikipedia.org/wiki/Murray_Shanahan">Murray Shanahan</a>&nbsp;&nbsp;</li>
 </ul>
+</br>
+<h2 id="user-content-d9f0">Research Papers</h2>
+<p id="user-content-9e99"><strong>arXiv.org:</strong></p>
+<ul>
+<li id="user-content-dbe5"><a href="https://arxiv.org/list/cs.AI/recent" rel="nofollow">Artificial Intelligence</a></li>
+<li id="user-content-88f5"><a href="https://arxiv.org/list/cs.LG/recent" rel="nofollow">Learning</a>&nbsp;</li>
+<li id="user-content-5804"><a href="https://arxiv.org/list/stat.ML/recent" rel="nofollow">Machine Learning</a>&nbsp;</li>
+<li id="user-content-0bfd"><a href="https://arxiv.org/list/cs.CL/recent" rel="nofollow">NLP</a></li>
+<li id="user-content-265f"><a href="https://arxiv.org/list/cs.CV/recent" rel="nofollow">Computer Vision</a></li>
+</ul>
+<p id="user-content-7500"><strong>Semantic Scholar:</strong></p>
+<ul>
+<li id="user-content-65c8"><a href="https://www.semanticscholar.org/search?q=%22neural%20networks%22&amp;sort=relevance&amp;ae=false" rel="nofollow">Neural Networks</a>&nbsp;</li>
+<li id="user-content-289d"><a href="https://www.semanticscholar.org/search?q=%22machine%20learning%22&amp;sort=relevance&amp;ae=false" rel="nofollow">Machine Learning</a>&nbsp;</li>
+<li id="user-content-aa7f"><a href="https://www.semanticscholar.org/search?q=%22natural%20language%22&amp;sort=relevance&amp;ae=false" rel="nofollow">Natural Language</a>&nbsp;</li>
+<li id="user-content-3fe9"><a href="https://www.semanticscholar.org/search?q=%22computer%20vision%22&amp;sort=relevance&amp;ae=false" rel="nofollow">Computer Vision</a>&nbsp;</li>
+<li id="user-content-0607"><a href="https://www.semanticscholar.org/search?q=%22deep%20learning%22&amp;sort=relevance&amp;ae=false" rel="nofollow">Deep Learning</a>&nbsp;</li>
+</ul>
+</br>
+<h2>Github</h2>
+<ul>
+<li id="user-content-ee9a"><a href="https://github.com/search?q=Machine+Learning+&amp;ref=simplesearch">Machine Learning&nbsp;</a></li>
+<li id="user-content-3508"><a href="https://github.com/search?q=Deep+Learning&amp;ref=simplesearch">Deep Learning</a></li>
+ <li id="user-content-d04a"><a href="https://github.com/search?q=Tensorflow&ref=simplesearch">Tensorflow</a>&nbsp;</li>
+<li id="user-content-df9c"><a href="https://github.com/search?q=Neural+Networks&ref=simplesearch">Neural Networks</a>&nbsp;</li>
+<li id="user-content-039e"><a href="https://github.com/search?q=NLP&ref=simplesearch">Natural Language Processing</a>&nbsp;</li>
+<li id="user-content-039e"><a href="https://github.com/search?q=Data+mining&ref=simplesearch">Data Mining</a>&nbsp;</li> 
+ <li id="user-content-039e"><a href="https://github.com/search?q=Algorithm&ref=simplesearch">Algorithms</a>&nbsp;</li>   
+  
+</ul>
 
-
-
-
-
+</br>
 
 
 
@@ -129,17 +156,7 @@
 <li id="f66a" class="gp gq dd gr b gs ke gu gv gw kf gy gz ha kg hc hd he kh hg hh hi ki hk hl hm kb kc kd ea" data-selectable-paragraph=""><a class="fd ho" href="http://www.math.lmu.de/~philip/publications/lectureNotes/calc1_forInfAndStatStudents.pdf" target="_blank" rel="noopener nofollow">Calculus I for Computer Science and Statistics Students</a></li>
 </ul>
 <p>&nbsp;</p>
-<h2>Github</h2>
-<ul>
-<li id="user-content-ee9a"><a href="https://github.com/search?q=Machine+Learning+&amp;ref=simplesearch">Machine Learning&nbsp;</a></li>
-<li id="user-content-3508"><a href="https://github.com/search?q=Deep+Learning&amp;ref=simplesearch">Deep Learning</a></li>
- <li id="user-content-d04a"><a href="https://github.com/search?q=Tensorflow&ref=simplesearch">Tensorflow</a>&nbsp;</li>
-<li id="user-content-df9c"><a href="https://github.com/search?q=Neural+Networks&ref=simplesearch">Neural Networks</a>&nbsp;</li>
-<li id="user-content-039e"><a href="https://github.com/search?q=NLP&ref=simplesearch">Natural Language Processing</a>&nbsp;</li>
-<li id="user-content-039e"><a href="https://github.com/search?q=Data+mining&ref=simplesearch">Data Mining</a>&nbsp;</li> 
- <li id="user-content-039e"><a href="https://github.com/search?q=Algorithm&ref=simplesearch">Algorithms</a>&nbsp;</li>   
-  
-</ul>
+
 <p>&nbsp;</p>
 <h2 id="fe95" class="ja jb dd es jc jd je gu jf jg jh gy ji jj jk jl jm jn jo jp jq jr js jt ju jv ea">Podcasts</h2>
 <ul class="">
