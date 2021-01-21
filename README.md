@@ -130,12 +130,15 @@
 </ul>
 <p>&nbsp;</p>
 <h2>Github</h2>
-<ul class="">
-<li id="ee9a" class="gp gq dd gr b gs gt gu gv gw gx gy gz ha hb hc hd he hf hg hh hi hj hk hl hm kb kc kd ea" data-selectable-paragraph=""><a class="fd ho" href="https://github.com/search?o=desc&amp;q=topic%3Amachine-learning+&amp;s=stars&amp;type=Repositories&amp;utf8=%E2%9C%93" target="_blank" rel="noopener nofollow">Machine Learning</a>&nbsp;(6K repos)</li>
-<li id="3508" class="gp gq dd gr b gs ke gu gv gw kf gy gz ha kg hc hd he kh hg hh hi ki hk hl hm kb kc kd ea" data-selectable-paragraph=""><a class="fd ho" href="https://github.com/search?q=topic%3Adeep-learning&amp;type=Repositories" target="_blank" rel="noopener nofollow">Deep Learning</a>&nbsp;(3K repos)</li>
-<li id="d04a" class="gp gq dd gr b gs ke gu gv gw kf gy gz ha kg hc hd he kh hg hh hi ki hk hl hm kb kc kd ea" data-selectable-paragraph=""><a class="fd ho" href="https://github.com/search?q=topic%3Atensorflow&amp;type=Repositories" target="_blank" rel="noopener nofollow">Tensorflow</a>&nbsp;(2K repos)</li>
-<li id="df9c" class="gp gq dd gr b gs ke gu gv gw kf gy gz ha kg hc hd he kh hg hh hi ki hk hl hm kb kc kd ea" data-selectable-paragraph=""><a class="fd ho" href="https://github.com/search?q=topic%3Aneural-network&amp;type=Repositories" target="_blank" rel="noopener nofollow">Neural Network</a>&nbsp;(1K repos)</li>
-<li id="039e" class="gp gq dd gr b gs ke gu gv gw kf gy gz ha kg hc hd he kh hg hh hi ki hk hl hm kb kc kd ea" data-selectable-paragraph=""><a class="fd ho" href="https://github.com/search?utf8=%E2%9C%93&amp;q=topic%3Anlp&amp;type=Repositories" target="_blank" rel="noopener nofollow">NLP</a>&nbsp;(1K repos)</li>
+<ul>
+<li id="user-content-ee9a"><a href="https://github.com/search?q=Machine+Learning+&amp;ref=simplesearch">Machine Learning&nbsp;</a></li>
+<li id="user-content-3508"><a href="https://github.com/search?q=Deep+Learning&amp;ref=simplesearch">Deep Learning</a></li>
+ <li id="user-content-d04a"><a href="https://github.com/search?q=Tensorflow&ref=simplesearch">Tensorflow</a>&nbsp;</li>
+<li id="user-content-df9c"><a href="https://github.com/search?q=Neural+Networks&ref=simplesearch">Neural Networks</a>&nbsp;</li>
+<li id="user-content-039e"><a href="https://github.com/search?q=NLP&ref=simplesearch">Natural Language Processing</a>&nbsp;</li>
+<li id="user-content-039e"><a href="https://github.com/search?q=Data+mining&ref=simplesearch">Data Mining</a>&nbsp;</li> 
+ <li id="user-content-039e"><a href="https://github.com/search?q=Algorithm&ref=simplesearch">Algorithms</a>&nbsp;</li>   
+  
 </ul>
 <p>&nbsp;</p>
 <h2 id="fe95" class="ja jb dd es jc jd je gu jf jg jh gy ji jj jk jl jm jn jo jp jq jr js jt ju jv ea">Podcasts</h2>
