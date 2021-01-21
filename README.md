@@ -9,42 +9,6 @@
 
 
 
-<h2 id="7c03" class="db dc dd de b df dg dh di dj dk dl dm dn do dp dq dr ds dt du dv dw dx dy dz ea">Curated List of AI and Machine Learning Resources</h2>
-<h2><strong>AI Pioneers</strong></h2>
-
-<ul>
-<li><a title="Alan Turing" href="https://en.wikipedia.org/wiki/Alan_Turing">Alan Turing</a>&nbsp;</li>
-<li><a title="John von Neumann" href="https://en.wikipedia.org/wiki/John_von_Neumann">John von Neumann</a>&nbsp;</li>
-<li><a title="Norbert Wiener" href="https://en.wikipedia.org/wiki/Norbert_Wiener">Norbert Wiener</a>&nbsp;</li>
-<li><a title="Claude Shannon" href="https://en.wikipedia.org/wiki/Claude_Shannon">Claude Shannon</a>&nbsp;</li>
-<li><a title="Nathaniel Rochester (computer scientist)" href="https://en.wikipedia.org/wiki/Nathaniel_Rochester_(computer_scientist)">Nathaniel Rochester</a>&nbsp;</li>
-<li><a title="Walter Pitts" href="https://en.wikipedia.org/wiki/Walter_Pitts">Walter Pitts</a>&nbsp;</li>
-<li><a class="mw-redirect" title="Warren McCullough" href="https://en.wikipedia.org/wiki/Warren_McCullough">Warren McCullough</a>&nbsp;</li>
-<li><a title="John McCarthy (computer scientist)" href="https://en.wikipedia.org/wiki/John_McCarthy_(computer_scientist)">John McCarthy</a>&nbsp;</li>
-<li><a title="Marvin Minsky" href="https://en.wikipedia.org/wiki/Marvin_Minsky">Marvin Minsky</a>&nbsp;</li>
-<li><a title="Allen Newell" href="https://en.wikipedia.org/wiki/Allen_Newell">Allen Newell</a>&nbsp;</li>
-<li><a title="Herbert A. Simon" href="https://en.wikipedia.org/wiki/Herbert_A._Simon">Herbert A. Simon</a>&nbsp;</li>
-<li><a title="Edward Feigenbaum" href="https://en.wikipedia.org/wiki/Edward_Feigenbaum">Edward Feigenbaum</a>&nbsp;</li>
-<li><a title="Raj Reddy" href="https://en.wikipedia.org/wiki/Raj_Reddy">Raj Reddy</a>&nbsp;</li>
-<li><a title="Seymour Papert" href="https://en.wikipedia.org/wiki/Seymour_Papert">Seymour Papert</a>&nbsp;</li>
-<li><a title="Ray Solomonoff" href="https://en.wikipedia.org/wiki/Ray_Solomonoff">Ray Solomonoff</a>&nbsp;</li>
-<li><a title="Douglas Hofstadter" href="https://en.wikipedia.org/wiki/Douglas_Hofstadter">Douglas Hofstadter</a>&nbsp;</li>
-<li><a title="Judea Pearl" href="https://en.wikipedia.org/wiki/Judea_Pearl">Judea Pearl</a>&nbsp;</li>
-<li><a title="Rodney Brooks" href="https://en.wikipedia.org/wiki/Rodney_Brooks">Rodney Brooks</a>&nbsp;</li>
-<li><a title="Yoshua Bengio" href="https://en.wikipedia.org/wiki/Yoshua_Bengio">Yoshua Bengio</a></li>
-<li><a title="Hugo de Garis" href="https://en.wikipedia.org/wiki/Hugo_de_Garis">Hugo de Garis</a>&nbsp;&nbsp;</li>
-<li><a title="Geoffrey Hinton" href="https://en.wikipedia.org/wiki/Geoffrey_Hinton">Geoffrey Hinton</a></li>
-<li><a title="Yann LeCun" href="https://en.wikipedia.org/wiki/Yann_LeCun">Yann LeCun</a>&nbsp;</li>
-<li><a title="Ray Kurzweil" href="https://en.wikipedia.org/wiki/Ray_Kurzweil">Ray Kurzweil</a>&nbsp;</li>
-<li><a title="Nick Bostrom" href="https://en.wikipedia.org/wiki/Nick_Bostrom">Nick Bostrom</a></li>
-<li><a title="David Ferrucci" href="https://en.wikipedia.org/wiki/David_Ferrucci">David Ferrucci</a>&nbsp;&nbsp;</li>
-<li><a title="Andrew Ng" href="https://en.wikipedia.org/wiki/Andrew_Ng">Andrew Ng</a>&nbsp;</li>
-<li><a title="Peter Norvig" href="https://en.wikipedia.org/wiki/Peter_Norvig">Peter Norvig</a>&nbsp;&nbsp;</li>
-<li><a title="Marc Raibert" href="https://en.wikipedia.org/wiki/Marc_Raibert">Marc Raibert</a>&nbsp;</li>
-<li><a title="Stuart J. Russell" href="https://en.wikipedia.org/wiki/Stuart_J._Russell">Stuart J. Russell</a>&nbsp;</li>
-<li><a title="Murray Shanahan" href="https://en.wikipedia.org/wiki/Murray_Shanahan">Murray Shanahan</a>&nbsp;&nbsp;</li>
-</ul>
-</br>
 
 <table class="vertical-navbox nowraplinks">
 <tbody>
