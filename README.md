@@ -76,6 +76,20 @@
 </ul>
 
 </br>
+<h2><strong>Videos</strong></h2>
+<ul>
+<li id="user-content-ee9a"><a href="https://www.youtube.com/results?search_query=Machine+Learning">Machine Learning&nbsp;</a></li>
+<li id="user-content-3508"><a href="https://www.youtube.com/results?search_query=Deep+Learning">Deep Learning</a></li>
+<li id="user-content-d04a"><a href="https://www.youtube.com/results?search_query=Tensorflow">Tensorflow&nbsp;</a></li>
+<li id="user-content-df9c"><a href="https://www.youtube.com/results?search_query=Neural+Networks">Neural Networks&nbsp;</a></li>
+<li id="user-content-039e"><a href="https://www.youtube.com/results?search_query=Natural+Language+Processing">Natural Language Processing&nbsp;</a></li>
+<li id="user-content-039e"><a href="https://www.youtube.com/results?search_query=Data+Mining">Data Mining</a>&nbsp;</li>
+<li id="user-content-039e"><a href="https://www.youtube.com/results?search_query=Algorithms">Algorithms&nbsp;</a></li>
+</ul>
+</br>
+
+
+
 
 
 
