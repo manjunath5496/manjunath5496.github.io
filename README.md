@@ -45,6 +45,25 @@
 <li><a title="Murray Shanahan" href="https://en.wikipedia.org/wiki/Murray_Shanahan">Murray Shanahan</a>&nbsp;&nbsp;</li>
 </ul>
 </br>
+
+<h2><a title="" href="https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects">List of artificial intelligence projects</a></h2>
+<ul>
+<li><a title="" href="https://en.wikipedia.org/wiki/Automated_Mathematician">Automated Mathematician</a>&nbsp;</li>
+<li><a title="Allen (robot)" href="https://en.wikipedia.org/wiki/Allen_(robot)">Allen (robot)</a>&nbsp;&ndash;</li>
+<li><a title="Open Mind Common Sense" href="https://en.wikipedia.org/wiki/Open_Mind_Common_Sense">Open Mind Common Sense</a>&nbsp;</li>
+<li><a title="Mindpixel" href="https://en.wikipedia.org/wiki/Mindpixel">Mindpixel</a>&nbsp;</li>
+<li><a title="CALO" href="https://en.wikipedia.org/wiki/CALO">Cognitive Assistant that Learns and Organizes</a>&nbsp;</li>
+<li><a title="Blue Brain Project" href="https://en.wikipedia.org/wiki/Blue_Brain_Project">Blue Brain Project</a>&nbsp;</li>
+<li><a class="mw-redirect" title="Google DeepMind" href="https://en.wikipedia.org/wiki/Google_DeepMind">Google DeepMind</a>&nbsp;</li>
+<li><a title="Human Brain Project" href="https://en.wikipedia.org/wiki/Human_Brain_Project">Human Brain Project</a>&nbsp;</li>
+<li><a class="mw-redirect" title="IBM Watson Group" href="https://en.wikipedia.org/wiki/IBM_Watson_Group">IBM Watson Group</a>&nbsp;</li>
+</ul>
+</br>
+
+
+
+
+
 <h2 id="user-content-d9f0">Research Papers</h2>
 <p id="user-content-9e99"><strong>arXiv.org:</strong></p>
 <ul>
