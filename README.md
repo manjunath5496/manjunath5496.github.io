@@ -335,3 +335,79 @@
 </tr>
 </tbody>
 </table>
+</br>
+
+<h2>Open Access Books</h2>
+
+
+
+<ul>
+
+                             
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/manjunath5496.github.io/blob/master/1/q(1).pdf" style="text-decoration:none;">The Origins of Telicity</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/manjunath5496.github.io/blob/master/1/q(2).pdf" style="text-decoration:none;">SupervisedWithin-Document Event Coreference using Information Propagation</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/manjunath5496.github.io/blob/master/1/q(3).pdf" style="text-decoration:none;">Nominal Reference, Temporal
+Constitution and Quantification in Event Semantics</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/manjunath5496.github.io/blob/master/1/q(4).pdf" style="text-decoration:none;">Event Detection via Recurrent Neural Network and Argument Prediction</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/manjunath5496.github.io/blob/master/1/q(5).pdf" style="text-decoration:none;">Joint Modeling of Argument Identification and Role Determination in Chinese Event Extraction with Discourse- evel Information</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/manjunath5496.github.io/blob/master/1/q(6).pdf" style="text-decoration:none;">F-HMTC: Detecting Financial Events for Investment Decisions Based on Neural Hierarchical Multi-Label Text Classification</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/manjunath5496.github.io/blob/master/1/q(7).pdf" style="text-decoration:none;">A Unified Model for Financial Event Classification, Detection and Summarization</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/manjunath5496.github.io/blob/master/1/q(8).pdf" style="text-decoration:none;"> SupervisedWithin-Document Event Coreference using Information Propagation </a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/manjunath5496.github.io/blob/master/1/q(9).pdf" style="text-decoration:none;">A Linguistic Resource for Discovering Event Structures and Resolving Event Coreference</a></li>
+  
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/manjunath5496.github.io/blob/master/1/q(10).pdf" style="text-decoration:none;">Extracting Entities and Events as a Single Task Using a Transition-Based Neural Model</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/manjunath5496.github.io/blob/master/1/q(11).pdf" style="text-decoration:none;">Using a sledgehammer to crack a nut?
+Lexical diversity and event coreference resolution</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/manjunath5496.github.io/blob/master/1/q(12).pdf" style="text-decoration:none;">CASIE: Extracting Cybersecurity Event Information from Text</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/manjunath5496.github.io/blob/master/1/q(13).pdf" style="text-decoration:none;">Event Extraction Using Distant Supervision</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/manjunath5496.github.io/blob/master/1/q(14).pdf" style="text-decoration:none;">SinoCoreferencer: An End-to-End Chinese Event Coreference Resolver</a></li>
+                              
+<li><a target="_blank" href="https://github.com/manjunath5496/manjunath5496.github.io/blob/master/1/q(15).pdf" style="text-decoration:none;">Word sense disambiguation for event trigger word detection in biomedicine</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/manjunath5496.github.io/blob/master/1/q(16).pdf" style="text-decoration:none;">Wide coverage biomedical event extraction using multiple partially overlapping corpora</a></li>
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/manjunath5496.github.io/blob/master/1/q(17).pdf" style="text-decoration:none;">Semi-supervised method for biomedical event extraction</a></li>   
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/manjunath5496.github.io/blob/master/1/q(18).pdf" style="text-decoration:none;">Scale Up Event Extraction Learning via Automatic Training Data Generation</a></li> 
+
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/manjunath5496.github.io/blob/master/1/q(19).pdf" style="text-decoration:none;">Event Detection with Neural Networks: A Rigorous Empirical Evaluation</a></li> 
+
+<li><a target="_blank" href="https://github.com/manjunath5496/manjunath5496.github.io/blob/master/1/q(20).pdf" style="text-decoration:none;">Jointly Multiple Events Extraction via Attention-based Graph Information Aggregation</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/manjunath5496.github.io/blob/master/1/q(21).pdf" style="text-decoration:none;">One for All: Neural Joint Modeling of Entities and Events</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/manjunath5496.github.io/blob/master/1/q(22).pdf" style="text-decoration:none;">Doc2EDAG: An End-to-End Document-level Framework for Chinese Financial Event Extraction</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/manjunath5496.github.io/blob/master/1/q(23).pdf" style="text-decoration:none;">Cost-sensitive Regularization for Label Confusion-aware Event Detection</a></li> 
+ 
+
+   <li><a target="_blank" href="https://github.com/manjunath5496/manjunath5496.github.io/blob/master/1/q(24).pdf" style="text-decoration:none;">Meta-Learning with Dynamic-Memory-Based Prototypical Network for Few-Shot Event Detection</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/manjunath5496.github.io/blob/master/1/q(25).pdf" style="text-decoration:none;">Exploiting the Matching Information in the Support Set for Few Shot Event Classification</a></li>                              
+ <li><a target="_blank" href="https://github.com/manjunath5496/manjunath5496.github.io/blob/master/1/q(26).pdf" style="text-decoration:none;">Edge-Enhanced Graph Convolution Networks for Event Detection with Syntactic Relation</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/manjunath5496.github.io/blob/master/1/q(27).pdf" style="text-decoration:none;">Event Extraction by Answering (Almost) Natural Questions</a></li>
+   
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/manjunath5496.github.io/blob/master/1/q(28).pdf" style="text-decoration:none;">Cross-media Structured Common Space for Multimedia Event Extraction</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/manjunath5496.github.io/blob/master/1/q(29).pdf" style="text-decoration:none;">Document-Level Event Role Filler Extraction using Multi-Granularity Contextualized Encoding </a></li>                              
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/manjunath5496.github.io/blob/master/1/q(30).pdf" style="text-decoration:none;">Extracting COVID-19 Events from Twitter</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/manjunath5496.github.io/blob/master/1/q(31).pdf" style="text-decoration:none;">Temporal Random Indexing of Context Vectors Applied to Event Detection</a></li> 
+    <li><a target="_blank" href="https://github.com/manjunath5496/manjunath5496.github.io/blob/master/1/q(32).pdf" style="text-decoration:none;">Domain Knowledge Empowered Structured Neural Net for End-to-End Event Temporal Relation Extraction</a></li> 
+
+   <li><a target="_blank" href="https://github.com/manjunath5496/manjunath5496.github.io/blob/master/1/q(33).pdf" style="text-decoration:none;">BERTering RAMS: What and How Much does BERT Already Know About Event Arguments? —A Study on the RAMS Dataset</a></li>                              
+
+  </ul>
+
+
+
+
+
+
