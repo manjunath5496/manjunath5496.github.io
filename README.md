@@ -401,7 +401,7 @@ to Cooperation and Mutualism</a></li>
    <li><a target="_blank" href="https://github.com/manjunath5496/manjunath5496.github.io/blob/master/1/q(31).pdf" style="text-decoration:none;">Mastering Strategic Management</a></li> 
     <li><a target="_blank" href="https://github.com/manjunath5496/manjunath5496.github.io/blob/master/1/q(32).pdf" style="text-decoration:none;">Principles of Economics</a></li> 
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/manjunath5496.github.io/blob/master/1/q(33).pdf" style="text-decoration:none;">Sociology</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/manjunath5496.github.io/blob/master/1/q(33).pdf" style="text-decoration:none;">Sociology</a></li>                     <li><a target="_blank" href="https://github.com/manjunath5496/manjunath5496.github.io/blob/master/1/q(1).rar" style="text-decoration:none;">Linear Regression Using R: An Introduction to Data Modeling</a></li>                               
 
   </ul>
 
